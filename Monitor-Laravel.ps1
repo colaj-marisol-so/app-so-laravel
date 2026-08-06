@@ -1,0 +1,1 @@
+while ($true) { docker exec laravel-app php artisan so:monitor; Start-Sleep -Seconds 5 }
